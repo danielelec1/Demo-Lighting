@@ -1,8 +1,7 @@
 ﻿NAME;COUNT
-TotalLights;1000
-LightsOn;73
-Outages;106
-LightsOff;927
-DriverFault;72
-LampFault;86
+LightsOn;78
+Outages;75
+LightsOff;922
+DriverFault;92
+LampFault;103
 Dim;0
