@@ -1,6 +1,6 @@
 ﻿NAME,COUNT
-LightsOn,19
-LightsOff,981
-DriverFault,13
-LampFault,23
+LightsOn,20
+LightsOff,980
+DriverFault,10
+LampFault,17
 Dim,0
