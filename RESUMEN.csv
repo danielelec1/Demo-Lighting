@@ -1,11 +1,2 @@
-﻿NAME,COUNT
-LightsOn,948
-LightsOff,52
-DriverFault,19
-LampFault,15
-Dim,929
-Fallas Luminarias,22
-Fallas de Driver,27
-Fallas Totales,36
-Porcentaje de Fallas,0.13
-Tiempos de Respuesta,30
+﻿Falla Luminaria,Falla Driver,Falla Total, Porcentaje Falla, Tiempo Respuesta
+22,27,36,0.13,30
