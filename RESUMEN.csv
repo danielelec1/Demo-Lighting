@@ -4,3 +4,8 @@ LightsOff,52
 DriverFault,19
 LampFault,15
 Dim,929
+Fallas Luminarias,22
+Fallas de Driver,27
+Fallas Totales,36
+Porcentaje de Fallas,0.13
+Tiempos de Respuesta,30
